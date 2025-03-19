@@ -9,7 +9,7 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="33c1655f7ae3559b579ff3b9d2c45413"/>
+                            <attribute id="MD5" type="LSString" value="96c19798a020e178251944be557fc464"/>
                             <attribute id="Name" type="LSString" value="GustavDev"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
@@ -18,9 +18,9 @@
                     </children>
                 </node>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSString" value=""/>
+                    <attribute id="Author" type="LSString" value="Laura Kokkarinen"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value=""/>
+                    <attribute id="Description" type="LSString" value="A bag for your Thieves&apos; Tools and Trap Disarm Toolkits. The items are automatically added into the bag whenever looted. The bag is available from the Tutorial Chest. To uninstall the mod, put the bag back into the Tutorial Chest and wait for 3 turns."/>
                     <attribute id="FileSize" type="uint64" value="6001"/>
                     <attribute id="Folder" type="LSString" value="ThievesToolkit_131aa9f1-240f-2093-886f-13f53a59a0ce"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
