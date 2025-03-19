@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="e078e210-b9ba-48e5-afe3-c5eb91ba8545">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="6757d6e6-2508-4ba3-9617-a3e5b803385d" />
+        <field name="Name" type="NameTableFieldDefinition" value="CONT_ThievesToolkit_8c73db8f-a233-4233-824e-2ace04ccdf99" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="8c73db8f-a233-4233-824e-2ace04ccdf99" />
+        <field name="Value" type="IntegerTableFieldDefinition" value="25" />
+        <field name="Weight" type="FloatTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

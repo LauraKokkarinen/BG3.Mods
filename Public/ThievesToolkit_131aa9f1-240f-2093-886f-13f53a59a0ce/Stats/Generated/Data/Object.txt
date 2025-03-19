@@ -1,0 +1,6 @@
+new entry "CONT_ThievesToolkit_8c73db8f-a233-4233-824e-2ace04ccdf99"
+type "Object"
+data "RootTemplate" "8c73db8f-a233-4233-824e-2ace04ccdf99"
+data "ValueOverride" "25"
+data "Weight" "1"
+
