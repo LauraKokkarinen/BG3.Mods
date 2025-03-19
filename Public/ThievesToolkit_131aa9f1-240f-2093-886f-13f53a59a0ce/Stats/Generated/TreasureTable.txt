@@ -3,7 +3,3 @@ new treasuretable "TUT_Chest_Potions"
 CanMerge 1
 new subtable "1,1"
 object category "I_CONT_ThievesToolkit_8c73db8f-a233-4233-824e-2ace04ccdf99",0,0,0,0,0,0,0,0
-new treasuretable "DEN_Entrance_Trade"
-CanMerge 1
-new subtable "1,1"
-object category "I_CONT_ThievesToolkit_8c73db8f-a233-4233-824e-2ace04ccdf99",0,0,0,0,0,0,0,0
