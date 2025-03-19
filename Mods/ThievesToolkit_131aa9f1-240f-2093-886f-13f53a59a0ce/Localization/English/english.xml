@@ -3,4 +3,7 @@
   <content contentuid="h24acc557ged1dg5176ga76bg1b96ac06e822" version="2">Thieves' Toolkit</content>
   <content contentuid="h53370416gb0d2g177ag64edg59217db38f44" version="2">Stores your thieves' tools and trap disarm toolkits.</content>
   <content contentuid="hf234525ag25f0g5521g1c64g88de5dc1bbcd" version="2">This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers.</content>
+  <content contentuid="ha87b0364g1656g46fbgbff6g5d7b54c6a6b1" version="2">Trap Disarm Toolkit</content>
+  <content contentuid="h8a74a67cgc842g4255gaf9fgf4f22e517f80" version="2">This kit enables you to disarm traps, based on a Sleight of Hand &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt;. The kit breaks on an unsuccessful attempt.</content>
+  <content contentuid="hb824ecfcgbd52g419dgaa50g900bd6149883" version="2">A collection of hooks, blades, shears, and everything else needed to deal with potentially deadly traps.</content>
 </contentList>
