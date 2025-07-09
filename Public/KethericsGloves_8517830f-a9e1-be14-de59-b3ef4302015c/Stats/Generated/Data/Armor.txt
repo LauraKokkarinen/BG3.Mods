@@ -1,0 +1,12 @@
+new entry "ARM_Gloves_Ketheric_8517830f-a9e1-be14-de59-b3ef4302015c"
+type "Armor"
+using "ARM_Gloves_Metal"
+data "RootTemplate" "d870703c-e5fd-4f04-bd30-02b9552ee10e"
+data "Rarity" "Legendary"
+
+new entry "ARM_Boots_Ketheric_8517830f-a9e1-be14-de59-b3ef4302015c"
+type "Armor"
+using "ARM_Boots_Metal"
+data "RootTemplate" "0d62ad3e-daea-4520-94d9-e85c8a388f26"
+data "Rarity" "Legendary"
+

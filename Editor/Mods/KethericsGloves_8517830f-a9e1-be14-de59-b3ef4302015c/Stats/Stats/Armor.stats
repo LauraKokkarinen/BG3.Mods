@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="239de60a-29b5-4010-bf7d-f6169d4ddd8a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="936e9254-81ec-4e6f-b219-6a518a67dfc6" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Gloves_Ketheric_8517830f-a9e1-be14-de59-b3ef4302015c" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="9595f6a0-f229-4869-ad3c-1ec7763733da" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="d870703c-e5fd-4f04-bd30-02b9552ee10e" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="2e611c4e-ca2f-424a-8006-e09091e3586f" />
+        <field name="Name" type="NameTableFieldDefinition" value="ARM_Boots_Ketheric_8517830f-a9e1-be14-de59-b3ef4302015c" />
+        <field name="Using" type="BaseClassTableFieldDefinition" value="0f7bcb8a-b652-46da-ab4c-6cda2bb2a637" />
+        <field name="RootTemplate" type="RootTemplateTableFieldDefinition" value="0d62ad3e-daea-4520-94d9-e85c8a388f26" />
+        <field name="Rarity" type="EnumerationTableFieldDefinition" value="Legendary" enumeration_type_name="Rarity" version="1" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
