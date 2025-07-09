@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="0f25b1c5-2b9a-8694-48d0-4968c80f1791"/>
+            <attribute id="Name" type="LSString" value="BloodDivination"/>
+            <attribute id="UUID" type="LSString" value="ca28c6f0-dccb-4bb6-590a-3fa09eb52ef8"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

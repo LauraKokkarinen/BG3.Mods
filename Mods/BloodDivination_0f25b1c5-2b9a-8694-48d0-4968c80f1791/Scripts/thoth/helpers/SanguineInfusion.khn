@@ -1,0 +1,6 @@
+function SanguineInfusionCheck()
+    return (IsSpell() & (HasUseCosts('SpellSlot') 
+    | HasUseCosts('WarlockSpellSlot'))
+    & HasSpellSpellLevel() 
+    & HasSpellFlag(SpellFlags.Spell))
+end

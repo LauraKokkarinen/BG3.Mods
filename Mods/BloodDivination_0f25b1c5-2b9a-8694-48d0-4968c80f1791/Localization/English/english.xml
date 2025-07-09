@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h6def0969ga69fg9fedgd0a2g59dfd89c4aec" version="4">Blood Divination</content>
+  <content contentuid="hd2a963c5g58feg87a2g82eagcb56ab096edb" version="2">You are known as a blood diviner – wielding power through sacrifice and sight beyond sight. When you learn Divination spells from scrolls, you may do so by offering your own vitality, reducing the cost to 25g per spell level instead of 50.</content>
+  <content contentuid="hc2f11ef2g62c4g9121g6814g7f176dfd9d72" version="1">Sanguine Infusion</content>
+  <content contentuid="he151e0b3gb596gbfbcgbcd5gd82e9f8ddb88" version="6">You've learned to weave your life force into the spells you cast, boosting their intensity at the cost of your vitality. You can choose to take [1] per the spell's level instead of using a spell slot.</content>
+  <content contentuid="h5da45370gc269g5358g9482gb1f49145f2c7" version="1">Sanguine Infusion</content>
+  <content contentuid="h2bbc27b3gc7b1g2947ge548g956089fd6134" version="1">Cast a spell with your own lifeforce. Instead of using a spell slot, you take [1] per the spell's level.</content>
+</contentList>
