@@ -21,10 +21,10 @@
                     <attribute id="Author" type="LSString" value="Laura Kokkarinen"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="Adds Ketheric&apos;s gloves and boots into the Tutorial Chest. Use a transmog mod to transfer the appearences to other items with better stats."/>
-                    <attribute id="FileSize" type="uint64" value="370265"/>
+                    <attribute id="FileSize" type="uint64" value="343707"/>
                     <attribute id="Folder" type="LSString" value="KethericsGloves_8517830f-a9e1-be14-de59-b3ef4302015c"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="96645ca4f2f54aa7eeac62c4b0bbb1e1"/>
+                    <attribute id="MD5" type="LSString" value="8f3848959d42dd0019b5e05b67e9b6aa"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Ketheric&apos;s Gloves and Boots"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -32,7 +32,7 @@
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="8517830f-a9e1-be14-de59-b3ef4302015c"/>
-                    <attribute id="Version64" type="int64" value="36028797018963974"/>
+                    <attribute id="Version64" type="int64" value="36028797018963975"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927718543409"/>
