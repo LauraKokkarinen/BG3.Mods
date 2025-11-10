@@ -1,5 +1,3 @@
-# Issues
-
 These mods are provided as is. I do not promise to actively support them or fix them if any issues are discovered. Feel free to fork the repo, fix any possible issues yourself, and submit a pull request.
 
 # Contributing
