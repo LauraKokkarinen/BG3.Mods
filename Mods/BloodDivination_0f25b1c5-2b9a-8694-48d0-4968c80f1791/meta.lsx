@@ -28,11 +28,13 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSString" value="Laura Kokkarinen"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSString" value="Blood Divination subclass for Wizard."/>
-                    <attribute id="FileSize" type="uint64" value="204720"/>
+                    <attribute id="Description" type="LSString" value="Blood Divination subclass for Wizard. Similar to the Divination subclass except the level 6 feature is replaced by Sanguine Infusion which allows you to use your health for casting spells.
+
+More info: https://github.com/LauraKokkarinen/BG3.Mods"/>
+                    <attribute id="FileSize" type="uint64" value="365292"/>
                     <attribute id="Folder" type="LSString" value="BloodDivination_0f25b1c5-2b9a-8694-48d0-4968c80f1791"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="8364d7c325355c00c0fd0d4c63f80791"/>
+                    <attribute id="MD5" type="LSString" value="c07966b3a55e527ea7fdadbbc18b0409"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Blood Divination"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -40,7 +42,7 @@
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="0f25b1c5-2b9a-8694-48d0-4968c80f1791"/>
-                    <attribute id="Version64" type="int64" value="36028797018963979"/>
+                    <attribute id="Version64" type="int64" value="36028797018963980"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
