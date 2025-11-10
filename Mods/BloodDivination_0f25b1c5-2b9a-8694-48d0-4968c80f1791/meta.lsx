@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="10"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="Config">
         <node id="root">
             <children>
@@ -9,7 +9,7 @@
                     <children>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavDev"/>
-                            <attribute id="MD5" type="LSString" value="c360fcf32ac7d77e2ba190ccb102c94d"/>
+                            <attribute id="MD5" type="LSString" value="5704b9842e406f912623c93e73aa683a"/>
                             <attribute id="Name" type="LSString" value="GustavDev"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="28ac9ce2-2aba-8cda-b3b5-6e922f71b6b8"/>
@@ -17,11 +17,11 @@
                         </node>
                         <node id="ModuleShortDesc">
                             <attribute id="Folder" type="LSString" value="GustavX"/>
-                            <attribute id="MD5" type="LSString" value="180daa208a8a447d4ea7f6b4a47e93f1"/>
+                            <attribute id="MD5" type="LSString" value="ef3fcba3f3684b3088ad1f9874d4957c"/>
                             <attribute id="Name" type="LSString" value="GustavX"/>
                             <attribute id="PublishHandle" type="uint64" value="0"/>
                             <attribute id="UUID" type="guid" value="cb555efe-2d9e-131f-8195-a89329d218ea"/>
-                            <attribute id="Version64" type="int64" value="145241152413957217"/>
+                            <attribute id="Version64" type="int64" value="145241946983074840"/>
                         </node>
                     </children>
                 </node>
@@ -29,10 +29,10 @@
                     <attribute id="Author" type="LSString" value="Laura Kokkarinen"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="Blood Divination subclass for Wizard."/>
-                    <attribute id="FileSize" type="uint64" value="204657"/>
+                    <attribute id="FileSize" type="uint64" value="204720"/>
                     <attribute id="Folder" type="LSString" value="BloodDivination_0f25b1c5-2b9a-8694-48d0-4968c80f1791"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="d92489406f01517e23fd3d091b51385e"/>
+                    <attribute id="MD5" type="LSString" value="8364d7c325355c00c0fd0d4c63f80791"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Blood Divination"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -40,7 +40,7 @@
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="0f25b1c5-2b9a-8694-48d0-4968c80f1791"/>
-                    <attribute id="Version64" type="int64" value="36028797018963976"/>
+                    <attribute id="Version64" type="int64" value="36028797018963978"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>

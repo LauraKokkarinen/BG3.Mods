@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="ClassDescriptions">
         <node id="root">
             <children>
@@ -10,7 +10,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h6def0969ga69fg9fedgd0a2g59dfd89c4aec" version="4"/>
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="BloodDivination"/>
+                    <attribute id="Name" type="FixedString" value="BloodDivinationSchool"/>
                     <attribute id="ParentGuid" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09"/>
                     <attribute id="PrimaryAbility" type="uint8" value="4"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="9c98da74-a139-4e17-9266-7fe061cd53e8"/>

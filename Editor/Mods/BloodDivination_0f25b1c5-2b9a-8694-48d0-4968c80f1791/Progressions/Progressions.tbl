@@ -6,7 +6,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
         <field name="UUID" type="IdTableFieldDefinition" value="f3b8c6d2-7e4a-4d1f-b9a1-8c2e5d7f3e6b" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="2" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="PassivesAdded" type="StringTableFieldDefinition" value="Portent" />
@@ -19,7 +19,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_365" />
         <field name="UUID" type="IdTableFieldDefinition" value="7bfac403-c99c-41d4-850c-2e483b4d536f" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="12" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0)" />
@@ -30,7 +30,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_357" />
         <field name="UUID" type="IdTableFieldDefinition" value="3381f031-90d9-4b39-85c7-a5464336dca7" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="4" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0)" />
@@ -45,7 +45,7 @@
         <field name="Level" type="ByteTableFieldDefinition" value="2" />
         <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(SpellSlot,1,1)" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="0" />
-        <field name="SubClasses" type="GuidObjectListTableFieldDefinition" value="e6a0eb75-7a01-4f40-8563-24ba2615e99b;c059dca1-c17d-4dce-8260-83ede5070eac;fbb8347b-20e3-4846-ba91-0552cd12fc5f;7a3feb8d-dda7-46ec-9029-1f302f537432;46d31950-6917-444e-ac87-706702825215;7577b0e1-a517-4f82-8f72-05a227dc5e88;436c9e1a-3a39-48dd-b753-7cee1bd19c00;a12f2924-30b4-4185-9db9-2c5b383ff449;44341203-beaf-42d2-8459-e15ec4ec7d15" />
+        <field name="SubClasses" type="GuidObjectListTableFieldDefinition" value="e6a0eb75-7a01-4f40-8563-24ba2615e99b;8047cf29-2c79-4f12-a4bf-d965a023be63;7a3feb8d-dda7-46ec-9029-1f302f537432;7577b0e1-a517-4f82-8f72-05a227dc5e88;46d31950-6917-444e-ac87-706702825215;c059dca1-c17d-4dce-8260-83ede5070eac;436c9e1a-3a39-48dd-b753-7cee1bd19c00;fbb8347b-20e3-4846-ba91-0552cd12fc5f;a12f2924-30b4-4185-9db9-2c5b383ff449;44341203-beaf-42d2-8459-e15ec4ec7d15" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
@@ -53,7 +53,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_358" />
         <field name="UUID" type="IdTableFieldDefinition" value="61c6b58c-dc25-4cbc-a6d3-619c00d3055e" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="3" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(80c6b070-c3a6-4864-84ca-e78626784eb4,2,0)" />
@@ -64,7 +64,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_356" />
         <field name="UUID" type="IdTableFieldDefinition" value="8d9a4b59-d265-449a-8886-14fec9bfa38b" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="5" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0)" />
@@ -75,7 +75,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_359" />
         <field name="UUID" type="IdTableFieldDefinition" value="14cec981-11b2-4e8c-bf49-40b433379f2e" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="6" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(22755771-ca11-49f4-b772-13d8b8fecd93,2,0)" />
@@ -87,7 +87,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_360" />
         <field name="UUID" type="IdTableFieldDefinition" value="1e3da910-3a18-470b-9f21-71149383eb53" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="7" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0)" />
@@ -98,7 +98,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_361" />
         <field name="UUID" type="IdTableFieldDefinition" value="f92cd946-47cb-4a58-a34d-5460e208ade2" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="8" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(820b1220-0385-426d-ae15-458dc8a6f5c0,2,0)" />
@@ -109,7 +109,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_362" />
         <field name="UUID" type="IdTableFieldDefinition" value="0e6723c0-30e7-42d6-ad05-52af2b380e6d" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="9" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0)" />
@@ -120,7 +120,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_363" />
         <field name="UUID" type="IdTableFieldDefinition" value="427de6a2-dc4d-4ab1-a30a-738232901916" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="10" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(dceec54d-fb54-4492-b466-b7a0b8b551f3,,,,AlwaysPrepared);SelectSpells(3cae2e56-9871-4cef-bba6-96845ea765fa,1,0,,,,AlwaysPrepared);SelectSpells(f781a25e-d288-43b4-bf5d-3d8d98846687,2,0)" />
@@ -131,7 +131,7 @@
         <field name="Name" type="NameTableFieldDefinition" value="New_Stat_364" />
         <field name="UUID" type="IdTableFieldDefinition" value="6217f96c-3dd3-4c2b-b84c-5e33308ded7f" />
         <field name="TableUUID" type="GuidTableFieldDefinition" value="9c98da74-a139-4e17-9266-7fe061cd53e8" />
-        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivination" />
+        <field name="FSName" type="StringTableFieldDefinition" value="BloodDivinationSchool" />
         <field name="Level" type="ByteTableFieldDefinition" value="11" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="1" />
         <field name="Selectors" type="StringTableFieldDefinition" value="SelectSpells(bc917f22-7f71-4a25-9a77-7d2f91a96a65,2,0)" />
