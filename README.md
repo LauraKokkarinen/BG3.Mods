@@ -1,4 +1,24 @@
-These mods are provided as is. I do not promise to actively support them or fix them if any issues are discovered. Feel free to fork the repo, fix any possible issues yourself, and submit a pull request.
+# General
+
+These mods are provided as is. I do not promise to update them for future patches or fix them if any issues are discovered. Feel free to fork the repo, fix any possible issues yourself, and submit a pull request.
+
+# Mods
+
+- [Blood Divination](#blood-divination)
+- [Ketheric's Gloves and Boots](#ketherics-gloves-and-boots)
+- [Thieves' Toolkit](#thieves-toolkit)
+
+## Blood Divination
+
+The Blood Divination subclass is a homebrew spec I am playing on a tabletop DnD campaign. It is otherwise the same as the regular Diviner subclass, except that the level 6 subclass feature [Expert Divination](https://bg3.wiki/wiki/Expert_Divination) is replaced by a custom subclass feature called _Sanguine Infusion_.
+
+> **Sanguine Infusion**: _You've learned to weave your life force into the spells you cast, boosting their intensity at the cost of your vitality. You can choose to take 1d6 Necrotic damage per the spell's level instead of using a spell slot._
+
+Credit for the subclass icon goes to [Dragonify03](https://next.nexusmods.com/profile/Dragonify03) and their [Icons for Modded Subclasses](https://www.nexusmods.com/baldursgate3/mods/4216) mod on Nexus Mods. The icon was originally created for a subclass called Arcanist (Exploiter) but I found it to be suitable for Blood Diviner as well.
+
+## Ketheric's Gloves and Boots
+
+## Thieves' Toolkit
 
 # Contributing
 
