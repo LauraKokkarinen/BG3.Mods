@@ -4,7 +4,7 @@
     <region id="MetaData">
         <node id="root">
             <attribute id="GameProject" type="LSString" value=""/>
-            <attribute id="Module" type="LSString" value="131aa9f1-240f-2093-886f-13f53a59a0ce"/>
+            <attribute id="Module" type="LSString" value="7e37f8de-6b52-8154-869b-34e0757eaaca"/>
             <attribute id="Name" type="LSString" value="ThievesToolkit"/>
             <attribute id="UUID" type="LSString" value="8acafc81-9cff-f3b5-24c9-ec3fc9547c49"/>
             <attribute id="UpdatedDependencies" type="bool" value="true"/>

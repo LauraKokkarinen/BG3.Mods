@@ -30,7 +30,7 @@
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSString" value="A bag for your Thieves&apos; Tools and Trap Disarm Toolkits. The items are automatically added into the bag whenever looted. The bag is available from the Tutorial Chest. To uninstall, put the bag(s) back into the Tutorial Chest and wait for 3 turns."/>
                     <attribute id="FileSize" type="uint64" value="368597"/>
-                    <attribute id="Folder" type="LSString" value="ThievesToolkit_131aa9f1-240f-2093-886f-13f53a59a0ce"/>
+                    <attribute id="Folder" type="LSString" value="ThievesToolkit_7e37f8de-6b52-8154-869b-34e0757eaaca"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value="509868f16c0a3e7621e6a037a30c6dde"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
@@ -39,7 +39,7 @@
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="PublishHandle" type="uint64" value="0"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
-                    <attribute id="UUID" type="FixedString" value="131aa9f1-240f-2093-886f-13f53a59a0ce"/>
+                    <attribute id="UUID" type="FixedString" value="7e37f8de-6b52-8154-869b-34e0757eaaca"/>
                     <attribute id="Version64" type="int64" value="36028797018963972"/>
                     <children>
                         <node id="PublishVersion">
