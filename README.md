@@ -24,17 +24,23 @@ Credit for the subclass icon goes to [Dragonify03](https://next.nexusmods.com/pr
 
 ## Ketheric's Gloves and Boots
 
-This mod adds a set of gloves and boots with the appearance of those worn by Ketheric Thorm to the tutorial chest. The tutorial chest can be found natively on the nautiloid, and can later be summoned at will by using the [Tutorial Chest Summoning](https://www.nexusmods.com/baldursgate3/mods/457) mod.
+This mod adds a set of gloves and boots with the appearance of those worn by Ketheric Thorm to the tutorial chest. The tutorial chest can be found natively on the nautiloid, and can later be summoned at will by using the [Tutorial Chest Summoning](https://www.nexusmods.com/baldursgate3/mods/457) mod. If you are also running other mods that add items to the tutorial chest, those may prevent the items from appearing. In such a case, you can either disable the conflicting mods, change the mod load order, or execute the following commands on the [BG3 Script Extender Debug Console](https://www.nexusmods.com/baldursgate3/articles/169) to spawn the items in the active character's inventory.
 
-The items have basic stats to avoid them from being overpowered in the beginning of the game. You can transfer the appearence to items with better stats using a transmogrification mod, such as [Transmog Enhanced](https://www.nexusmods.com/baldursgate3/mods/2922).
+`TemplateAddTo("d870703c-e5fd-4f04-bd30-02b9552ee10e", GetHostCharacter(), 1)`
 
-![Ketheric's Glvoes](ketherics-gloves.png)
+`TemplateAddTo("0d62ad3e-daea-4520-94d9-e85c8a388f26", GetHostCharacter(), 1)`
+
+The items have basic stats to avoid them from being overpowered in the beginning of the game. You can transfer the appearence to items with better stats by using a transmogrification mod, such as [Transmog Enhanced](https://www.nexusmods.com/baldursgate3/mods/2922).
+
+![Ketheric's Gloves](ketherics-gloves.png)
 
 ![Ketheric's Boots](ketherics-boots.png)
 
 ## Thieves' Toolkit
 
-This mod adds a bag into the game that will automatically collect all of the thieves' tools and trap disarm toolkits that you loot. The bag is available from the tutorial chest. The tutorial chest can be found natively on the nautiloid, and can later be summoned at will by using the [Tutorial Chest Summoning](https://www.nexusmods.com/baldursgate3/mods/457) mod. The chest contains a single bag at a time. To get multiple bags, resummon the tutorial chest as many times as needed.
+This mod adds a bag into the game that will automatically collect all of the thieves' tools and trap disarm toolkits that you loot. The bag is available from the tutorial chest. The tutorial chest can be found natively on the nautiloid, and can later be summoned at will by using the [Tutorial Chest Summoning](https://www.nexusmods.com/baldursgate3/mods/457) mod. The chest contains a single bag at a time. To get multiple bags, resummon the tutorial chest as many times as needed. If you are also running other mods that add items to the tutorial chest, those may prevent the bag from appearing. In such a case, you can either disable the conflicting mods, change the mod load order, or execute the following command on the [BG3 Script Extender Debug Console](https://www.nexusmods.com/baldursgate3/articles/169) to spawn the bag in the active character's inventory.
+
+`TemplateAddTo("CONT_ThievesToolkit_8c73db8f-a233-4233-824e-2ace04ccdf99", GetHostCharacter(), 1)`
 
 ![Thieves' Toolkit](thieves-toolkit.png)
 
