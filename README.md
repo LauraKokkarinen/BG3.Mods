@@ -36,7 +36,7 @@ The items have basic stats to avoid them from being overpowered in the beginning
 
 This mod adds a bag into the game that will automatically collect all of the thieves' tools and trap disarm toolkits that you loot. The bag is available from the tutorial chest. The tutorial chest can be found natively on the nautiloid, and can later be summoned at will by using the [Tutorial Chest Summoning](https://www.nexusmods.com/baldursgate3/mods/457) mod. The chest contains a single bag at a time. To get multiple bags, resummon the tutorial chest as many times as needed.
 
-![alt text](image.png)
+![Thieves' Toolkit](thieves-toolkit.png)
 
 # Contributing
 
