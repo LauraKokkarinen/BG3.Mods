@@ -30,7 +30,7 @@ This mod adds a set of gloves and boots with the appearance of those worn by Ket
 
 `TemplateAddTo("0d62ad3e-daea-4520-94d9-e85c8a388f26", GetHostCharacter(), 1)`
 
-The items have basic stats to avoid them from being overpowered in the beginning of the game. You can transfer the appearence to items with better stats by using a transmogrification mod, such as [Transmog Enhanced](https://www.nexusmods.com/baldursgate3/mods/2922).
+The items have basic stats to prevent them from being overpowered at the beginning of the game. You can transfer their appearance to items with better stats by using a transmogrification mod, such as [Transmog Enhanced](https://www.nexusmods.com/baldursgate3/mods/2922).
 
 ![Ketheric's Gloves](ketherics-gloves.png)
 
@@ -43,6 +43,8 @@ This mod adds a bag into the game that will automatically collect all of the thi
 `TemplateAddTo("CONT_ThievesToolkit_8c73db8f-a233-4233-824e-2ace04ccdf99", GetHostCharacter(), 1)`
 
 ![Thieves' Toolkit](thieves-toolkit.png)
+
+To uninstall, destroy all instances of the bag, and then save the game. After that, it is safe to disable and delete the mod. The game will crash if your save still contains the bag, but the mod is no longer installed and active. An easy way to destroy the bag is to put it back into the Tutorial Chest and wait for 5 turns for the chest to disappear from the game.
 
 # Contributing
 
