@@ -7,6 +7,7 @@ These mods are available for use via the official Baldur's Gate 3 mod manager. T
 - [Blood Divination](#blood-divination)
 - [Ketheric's Gloves and Boots](#ketherics-gloves-and-boots)
 - [Thieves' Toolkit](#thieves-toolkit)
+- [Artisan's Vial Case](#artisans-vial-case)
 
 ## Blood Divination
 
@@ -43,6 +44,14 @@ This mod adds a bag into the game that will automatically collect all of the thi
 `TemplateAddTo("CONT_ThievesToolkit_8c73db8f-a233-4233-824e-2ace04ccdf99", GetHostCharacter(), 1)`
 
 ![Thieves' Toolkit](thieves-toolkit.png)
+
+To uninstall, destroy all instances of the bag, and then save the game. After that, it is safe to disable and delete the mod. The game will crash if your save still contains the bag, but the mod is no longer installed and active. An easy way to destroy the bag is to put it back into the Tutorial Chest and wait for 5 turns for the chest to disappear from the game.
+
+## Artisan's Vial Case
+
+This mod adds a bag into the game that will automatically collect all dyes that you loot. The bag is available from the tutorial chest. The tutorial chest can be found natively on the nautiloid, and can later be summoned at will by using the [Tutorial Chest Summoning](https://www.nexusmods.com/baldursgate3/mods/457) mod. The chest contains a single bag at a time. To get multiple bags, resummon the tutorial chest as many times as needed. If you are also running other mods that add items to the tutorial chest, those may prevent the bag from appearing. In such a case, you can either disable the conflicting mods, change the mod load order, or execute the following command on the [BG3 Script Extender Debug Console](https://www.nexusmods.com/baldursgate3/articles/169) to spawn the bag in the active character's inventory.
+
+`TemplateAddTo("CONT_VialCase_d8277afa-83fe-42e9-9e09-ec5ae256842e", GetHostCharacter(), 1)`
 
 To uninstall, destroy all instances of the bag, and then save the game. After that, it is safe to disable and delete the mod. The game will crash if your save still contains the bag, but the mod is no longer installed and active. An easy way to destroy the bag is to put it back into the Tutorial Chest and wait for 5 turns for the chest to disappear from the game.
 
