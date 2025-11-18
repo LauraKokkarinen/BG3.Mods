@@ -53,6 +53,8 @@ This mod adds a bag into the game that will automatically collect all dyes that 
 
 `TemplateAddTo("CONT_VialCase_d8277afa-83fe-42e9-9e09-ec5ae256842e", GetHostCharacter(), 1)`
 
+![Artisan's Vial Case](artisans-vial-case.png)
+
 To uninstall, destroy all instances of the bag, and then save the game. After that, it is safe to disable and delete the mod. The game will crash if your save still contains the bag, but the mod is no longer installed and active. An easy way to destroy the bag is to put it back into the Tutorial Chest and wait for 5 turns for the chest to disappear from the game.
 
 # Contributing
